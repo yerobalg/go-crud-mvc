@@ -1,6 +1,6 @@
 # go-crud-mvc
 
-Simple CRUD API with GIN and GORM with MVC pattern and implements depedency injection to improve scalability
+Simple CRUD API with GIN webserver framework and GORM SQL ORM with MVC pattern and implements depedency injection to improve scalability
 
 
 # Pre-Requisite
