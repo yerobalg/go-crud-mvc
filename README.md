@@ -5,7 +5,7 @@ Simple CRUD API with GIN webserver framework and GORM SQL ORM with MVC pattern a
 
 # Pre-Requisite
 - Go v1.19
-- MySQL 8.0.30
+- MySQL v8.0.30
 
 # Installation
 - Copy .env.example file, fill the database credential, then rename the file to .env
